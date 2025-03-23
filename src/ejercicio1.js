@@ -1,4 +1,4 @@
-/**Arreglo para eliminar nombres duplicados */
+/**Eliminar nombres duplicados */
 
 let nombres = ["Ana", "Luis", "Ana", "Pedro", "Luis", "Juan"];
 let nombresUnicos = [...new Set(nombres)];
