@@ -1,0 +1,19 @@
+{
+  "name": "ejercicio-arreglos",
+  "version": "1.0.0",
+  "description": "Ejercicios de arreglo ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcosEPH/Ejercicios---Arreglos.git"
+  },
+  "author": "Marcos Perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcosEPH/Ejercicios---Arreglos/issues"
+  },
+  "homepage": "https://github.com/MarcosEPH/Ejercicios---Arreglos#readme"
+}
